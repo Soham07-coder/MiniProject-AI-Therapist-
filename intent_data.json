@@ -1,0 +1,14 @@
+{
+    "data": [
+        {"text": "I feel really stressed lately.", "intent": "stress"},
+        {"text": "I'm struggling with anxiety.", "intent": "anxiety"},
+        {"text": "I am happy today!", "intent": "happiness"},
+        {"text": "I'm feeling sad and lonely.", "intent": "sadness"},
+        {"text": "Life feels meaningless.", "intent": "depression"},
+        {"text": "I feel overwhelmed with work.", "intent": "stress"},
+        {"text": "I had a panic attack today.", "intent": "anxiety"},
+        {"text": "I feel hopeful about the future!", "intent": "happiness"},
+        {"text": "I feel like crying all the time.", "intent": "sadness"},
+        {"text": "I have no motivation to do anything.", "intent": "depression"}
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "data": [
+        {"text": "I am feeling great today!", "mood": 0},
+        {"text": "I am so worried about my exams.", "mood": 1},
+        {"text": "I feel really down.", "mood": 2},
+        {"text": "I feel extremely anxious.", "mood": 1},
+        {"text": "Life is so beautiful!", "mood": 0},
+        {"text": "I can't stop crying today.", "mood": 2},
+        {"text": "Everything seems dark and hopeless.", "mood": 2},
+        {"text": "I had a wonderful day at work!", "mood": 0},
+        {"text": "I feel nervous before my presentation.", "mood": 1},
+        {"text": "I am so frustrated and angry.", "mood": 3}
+    ],
+    "mood_labels": {
+        "0": "Happy",
+        "1": "Anxious",
+        "2": "Sad",
+        "3": "Angry"
+    }
+}

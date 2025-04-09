@@ -1,0 +1,25 @@
+{
+    "Depression": {
+        "0": "Not at all",
+        "1": "Several days",
+        "2": "More than half the days",
+        "3": "Nearly every day"
+    },
+    "Personality & Behaviour": {
+        "1": "Strongly disagree",
+        "2": "Disagree",
+        "3": "Neutral",
+        "4": "Agree",
+        "5": "Strongly agree"
+    },
+    "Stress & Coping": {
+        "0": "Never",
+        "1": "Rarely",
+        "2": "Sometimes",
+        "3": "Often"
+    },
+    "Trauma & PTSD": {
+        "0": "No",
+        "1": "Yes"
+    }
+}

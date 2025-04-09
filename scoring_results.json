@@ -1,0 +1,18 @@
+{
+    "Depression": {
+        "score": 5,
+        "level": "Mild"
+    },
+    "Personality & Behaviour": {
+        "score": 5,
+        "level": "Introverted"
+    },
+    "Stress & Coping": {
+        "score": 5,
+        "level": "Low"
+    },
+    "Trauma & PTSD": {
+        "score": 5,
+        "level": "Severe trauma"
+    }
+}
