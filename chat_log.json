@@ -256,5 +256,268 @@
     "user_input": "I had a disagreement with a colleague",
     "predicted_mood": "Mood_19",
     "response_question": "I'm here to support you. Can you tell me more about how you're feeling?"
+  },
+  {
+    "timestamp": "2025-04-13T19:51:29.576656",
+    "user_input": "I feel like I can\u2019t get out of bed lately. Everything just feels pointless",
+    "predicted_mood": "Depression",
+    "response_question": "Score of 0-21 = low anxiety Score of 22-35 = moderate anxiety Score of 36 and above = potentially concerning levels of anxiety References: Beck, A."
+  },
+  {
+    "timestamp": "2025-04-13T19:51:48.768846",
+    "user_input": "I have a big presentation tomorrow and my heart won\u2019t stop racing",
+    "predicted_mood": "Suicidal Thoughts",
+    "response_question": "I'm here to support you. Can you tell me more about how you're feeling?"
+  },
+  {
+    "timestamp": "2025-04-13T19:56:16.208042",
+    "user_input": "",
+    "predicted_mood": "Suicidal Thoughts",
+    "response_question": "I'm here to support you. Can you tell me more about how you're feeling?"
+  },
+  {
+    "timestamp": "2025-04-13T19:56:32.133496",
+    "user_input": "I try so hard to feel better, but nothing ever works.",
+    "predicted_mood": "Depression",
+    "response_question": "Difficulty eating without staff urging."
+  },
+  {
+    "timestamp": "2025-04-13T19:56:44.805981",
+    "user_input": "I've been having nightmares about what happened when I was younger",
+    "predicted_mood": "Alcoholism",
+    "response_question": "I'm here to support you. Can you tell me more about how you're feeling?"
+  },
+  {
+    "timestamp": "2025-04-13T19:58:20.256693",
+    "user_input": "I finally started therapy, and it feels good to talk to someone",
+    "predicted_mood": "Depression",
+    "response_question": "Severe."
+  },
+  {
+    "timestamp": "2025-04-13T20:22:02.755656",
+    "user_input": "I feel A Bit Stressed About my Exams",
+    "predicted_mood": "Depression",
+    "response_question": "AGITATION 0|__| None."
+  },
+  {
+    "timestamp": "2025-04-13T20:22:23.866946",
+    "user_input": "I feel A bit Stressed out",
+    "predicted_mood": "Depression",
+    "response_question": "I do not feel sad."
+  },
+  {
+    "timestamp": "2025-04-13T20:45:34.407652",
+    "user_input": "",
+    "predicted_mood": "School Stress",
+    "response_question": "I'm here to support you. Can you tell me more about how you're feeling?"
+  },
+  {
+    "timestamp": "2025-04-13T20:48:24.034385",
+    "user_input": "I\u2019ve been feeling really down lately. Nothing makes sense anymore",
+    "predicted_mood": "Depression",
+    "response_question": "Requests or requires laxatives or medication for bowels ormedication for gastro-intestinal symptoms."
+  },
+  {
+    "timestamp": "2025-04-13T20:53:16.196036",
+    "user_input": "I\u2019ve been feeling really low lately. Nothing makes sense anymore",
+    "predicted_mood": "Depression",
+    "response_question": "\u2013 dry mouth, wind, indigestion, diarrhea,"
+  },
+  {
+    "timestamp": "2025-04-13T20:53:34.140302",
+    "user_input": "I feel a bit stressed",
+    "predicted_mood": "Depression",
+    "response_question": "Commentary"
+  },
+  {
+    "timestamp": "2025-04-13T20:53:48.856212",
+    "user_input": "I cry a lot, but I don't really know why",
+    "predicted_mood": "Depression",
+    "response_question": "constipation.       2   I am very worried about physical problems and it's hard to think of much else."
+  },
+  {
+    "timestamp": "2025-04-13T20:56:32.554634",
+    "user_input": "I\u2019ve lost interest in everything I used to enjoy",
+    "predicted_mood": "Daughter Stress",
+    "response_question": "I'm here to support you. Can you tell me more about how you're feeling?"
+  },
+  {
+    "timestamp": "2025-04-13T20:56:44.341154",
+    "user_input": "I feel exhausted every day even when I sleep a lot",
+    "predicted_mood": "Depression",
+    "response_question": "I'm here to support you. Can you tell me more about how you're feeling?"
+  },
+  {
+    "timestamp": "2025-04-14T01:24:27.285421",
+    "user_input": "stress",
+    "predicted_mood": "Erectile Dysfunction",
+    "response_question": "I'm here to support you. Can you tell me more about how you're feeling?"
+  },
+  {
+    "timestamp": "2025-04-14T01:24:37.811087",
+    "user_input": "deprerss",
+    "predicted_mood": "Suicidal Thoughts",
+    "response_question": "I'm here to support you. Can you tell me more about how you're feeling?"
+  },
+  {
+    "timestamp": "2025-04-14T02:18:41.846390",
+    "user_input": "I feel so empty and hopeless. It\u2019s been going on for weeks",
+    "predicted_mood": "Depression",
+    "model_confidence": 1.0,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling depression?"
+  },
+  {
+    "timestamp": "2025-04-14T02:18:58.212273",
+    "user_input": "My heart races before I talk to people. I think it\u2019s anxiety",
+    "predicted_mood": "Depression",
+    "model_confidence": 1.0,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling depression?"
+  },
+  {
+    "timestamp": "2025-04-14T02:19:07.874785",
+    "user_input": "",
+    "predicted_mood": "Panic Attacks",
+    "model_confidence": 0.9965232610702515,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling panic attacks?"
+  },
+  {
+    "timestamp": "2025-04-14T02:19:22.089199",
+    "user_input": "I keep thinking about something terrible that happened a long time ago",
+    "predicted_mood": "Depression",
+    "model_confidence": 1.0,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling depression?"
+  },
+  {
+    "timestamp": "2025-04-14T02:19:35.774958",
+    "user_input": "I just feel like no one really gets me. I'm always alone",
+    "predicted_mood": "Depression",
+    "model_confidence": 1.0,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling depression?"
+  },
+  {
+    "timestamp": "2025-04-14T02:19:56.390712",
+    "user_input": "I feel Stressed About My exams",
+    "predicted_mood": "Depression",
+    "model_confidence": 1.0,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling depression?"
+  },
+  {
+    "timestamp": "2025-04-14T02:20:13.795711",
+    "user_input": "i feel like sucidal",
+    "predicted_mood": "Depression",
+    "model_confidence": 1.0,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling depression?"
+  },
+  {
+    "timestamp": "2025-04-14T13:59:15.500364",
+    "user_input": "Stress",
+    "predicted_mood": "Erectile Dysfunction",
+    "model_confidence": 1.0,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling erectile dysfunction?"
+  },
+  {
+    "timestamp": "2025-04-14T13:59:24.606165",
+    "user_input": "No",
+    "predicted_mood": "Suicidal Thoughts",
+    "model_confidence": 0.9999911785125732,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling suicidal thoughts?"
+  },
+  {
+    "timestamp": "2025-04-14T14:34:16.198367",
+    "user_input": "I feel drained and don't want to get out of bed anymore.",
+    "predicted_mood": "Depression",
+    "model_confidence": 1.0,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling depression?"
+  },
+  {
+    "timestamp": "2025-04-14T15:02:22.138022",
+    "user_input": "I just feel empty. Nothing makes me happy anymore",
+    "predicted_mood": "Depression",
+    "model_confidence": 1.0,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling depression?"
+  },
+  {
+    "timestamp": "2025-04-14T15:02:40.080814",
+    "user_input": "I'm always worried something bad is going to happen",
+    "predicted_mood": "Depression",
+    "model_confidence": 1.0,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling depression?"
+  },
+  {
+    "timestamp": "2025-04-14T15:02:48.796455",
+    "user_input": "Sometimes I think it would be easier if I didn\u2019t wake up tomorrow",
+    "predicted_mood": "Depression",
+    "model_confidence": 1.0,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling depression?"
+  },
+  {
+    "timestamp": "2025-04-14T15:31:24.452080",
+    "user_input": "\"I feel hopeless and tired all day",
+    "predicted_mood": "Depression",
+    "model_confidence": 1.0,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling depression?"
+  },
+  {
+    "timestamp": "2025-04-14T16:27:40.135768",
+    "user_input": "I'm constantly nervous before presentations",
+    "predicted_mood": "Therapy Anxiety",
+    "model_confidence": 1.0,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling therapy anxiety?"
+  },
+  {
+    "timestamp": "2025-04-14T16:28:03.108250",
+    "user_input": "I feel Stressed about exams",
+    "predicted_mood": "Depression",
+    "model_confidence": 1.0,
+    "response_question": "0 I do not feel sad."
+  },
+  {
+    "timestamp": "2025-04-14T16:29:05.432200",
+    "user_input": "I wont be able to do anything in life",
+    "predicted_mood": "Depression",
+    "model_confidence": 1.0,
+    "response_question": "questions by counting th"
+  },
+  {
+    "timestamp": "2025-04-14T16:29:15.907527",
+    "user_input": "I will fail",
+    "predicted_mood": "Breakups",
+    "model_confidence": 0.9999756813049316,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling breakups?"
+  },
+  {
+    "timestamp": "2025-04-14T16:29:48.448444",
+    "user_input": "Yes , I recently had a breakup",
+    "predicted_mood": "Depression",
+    "model_confidence": 0.9634766578674316,
+    "response_question": "Consider Major Depressive Disorder"
+  },
+  {
+    "timestamp": "2025-04-14T16:29:56.978202",
+    "user_input": "Breakup",
+    "predicted_mood": "Depression",
+    "model_confidence": 0.7226632833480835,
+    "response_question": "Being so restless that it is hard to sit still"
+  },
+  {
+    "timestamp": "2025-04-14T16:30:33.067299",
+    "user_input": "yes i agree",
+    "predicted_mood": "Panic Attacks",
+    "model_confidence": 0.9999997615814209,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling panic attacks?"
+  },
+  {
+    "timestamp": "2025-04-14T16:57:37.790143",
+    "user_input": "My heart races when I have to talk in public",
+    "predicted_mood": "Anxiety And Depression",
+    "model_confidence": 1.0,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling anxiety and depression?"
+  },
+  {
+    "timestamp": "2025-04-14T16:57:52.965069",
+    "user_input": "",
+    "predicted_mood": "School Stress",
+    "model_confidence": 0.997103750705719,
+    "response_question": "I'm here to support you. Would you like to talk more about feeling school stress?"
   }
 ]
